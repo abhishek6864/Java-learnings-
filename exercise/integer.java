@@ -18,7 +18,7 @@ class integer{
                                                                                                                         num + " is not a valid integer number");
                                                                                                                                 }
 
-                                                                                                                                scan.close();
+
         }
 
     }
