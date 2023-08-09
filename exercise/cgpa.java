@@ -16,6 +16,10 @@ public class cgpa {
     System.out.println("cgpa is "+ (n1+n2+n3)/30);
 
 
+    scanner.close();
+
+
+
 
 
 

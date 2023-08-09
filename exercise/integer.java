@@ -17,6 +17,11 @@ class integer{
                                                                                                         System.out.println(
                                                                                                                         num + " is not a valid integer number");
                                                                                                                                 }
+
+
+                                                                                                                                scan.close();
+
+
         }
 
     }
