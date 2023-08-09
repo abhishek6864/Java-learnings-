@@ -8,7 +8,9 @@ public class meter{
 
       System.out.printf("%f kilometer is %f in meter ",kilo,kilo*1000);
 
+
 scan.close();
+
 
 
 

@@ -19,9 +19,6 @@ class integer{
                                                                                                                                 }
 
 
-                                                                                                                                scan.close();
-
-
         }
 
     }

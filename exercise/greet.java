@@ -10,6 +10,10 @@ class greet{
     System.out.println("Hello " + name + ", good morning how's your day");
 
 
+scanner.close();
+
+
+
 
 
 
