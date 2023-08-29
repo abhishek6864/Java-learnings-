@@ -15,7 +15,7 @@ class Square{
   }
 };
 
-class Main{
+class exercise_8_3{
  public static void main(String[] args){
    Square s = new Square();
    s.setSide(5);
