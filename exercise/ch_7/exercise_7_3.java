@@ -1,5 +1,5 @@
 import java.util.*;
-class Main{
+class exercise_7_3{
 
   public static int sum_of_n(int num){
     if(num == 1|| num == 0){
