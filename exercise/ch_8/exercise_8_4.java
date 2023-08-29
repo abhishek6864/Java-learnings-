@@ -17,7 +17,7 @@ class Rectangle{
   }
 };
 
-class Main{
+class exercise_8_4{
  public static void main(String[] args){
    Rectangle r = new Rectangle();
    r.setSide(5,8);
