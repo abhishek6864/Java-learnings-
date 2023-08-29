@@ -14,7 +14,7 @@ class tommyVecetti{
   
 };
 
-class Main{
+class exercise_8_5{
  public static void main(String[] args){
    tommyVecetti player1 = new tommyVecetti();
    player1.hit();
