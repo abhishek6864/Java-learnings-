@@ -14,7 +14,7 @@ class Employee{
     return salary;
   }
 };
-class Main{
+class exercise_8_1{
  public static void main(String[] args){
     Employee E1 = new Employee();
    E1.set("Pritesh", 300000);
