@@ -1,5 +1,5 @@
 import java.util.*;
-class Main{
+class exercise_7_9{
 
   public static double c_f(double cel){
     
