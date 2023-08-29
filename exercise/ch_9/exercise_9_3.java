@@ -20,7 +20,7 @@ class Cylinder{
 };
 
 
-class Main {
+class exercise_9_3{
   public static void main(String[] args) {
     Cylinder c1 = new Cylinder(4,7.2);
     
