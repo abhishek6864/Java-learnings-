@@ -20,7 +20,7 @@ class Cylinder{
 };
 
 
-class Main {
+class exercise_9_2{
   public static void main(String[] args) {
     Cylinder c1 = new Cylinder();
     c1.setter(4,8.2);
