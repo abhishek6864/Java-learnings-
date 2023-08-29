@@ -19,7 +19,7 @@ class Sphere{
 };
 
 
-class Main {
+class exercise_8_5{
   public static void main(String[] args) {
     Sphere s1 = new Sphere(4.32);
     s1.area();
