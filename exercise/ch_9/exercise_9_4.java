@@ -25,7 +25,7 @@ class Rectangle{
 };
 
 
-class Main {
+class exercise_9_4{
   public static void main(String[] args) {
     Rectangle r1 = new Rectangle();
     
