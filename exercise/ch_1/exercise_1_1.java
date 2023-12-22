@@ -1,6 +1,6 @@
 import java.util.*; 
 
-public class cgpa {
+public class exercise_1_1 {
     public static void main(String args[]){
 
     Scanner scanner = new Scanner(System.in);
